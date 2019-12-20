@@ -1,0 +1,5 @@
+a = int(input())
+b = int(input())
+print("Addition:",a+b)
+print("Concatenation:",a,end='')
+print(b)
